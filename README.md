@@ -1,7 +1,7 @@
 README for Lua BitOp 1.0.2
 --------------------------
 
-Lua BitOp is a C extension module for Lua 5.1/5.2 which adds
+Lua BitOp is a C extension module for Lua 5.1/5.2/5.3 which adds
 bitwise operations on numbers.
 
 Homepage: http://bitop.luajit.org/
